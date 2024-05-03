@@ -24,7 +24,7 @@ const About = () => {
     <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
       <div id="item-1">
         <h4>Profile Pic</h4>
-        <img src=""  height="250vw" width="230vw" style="border-radius: 100px;  display: block;
+        <img src="./static/Images.profile.JPG"  height="250vw" width="230vw" style="border-radius: 100px;  display: block;
         margin-left: auto; margin-right: auto;" alt="My_Img">
         <p>
           <b>Hi 👋🏼 I'm Akash Halder</b>, a dynamic professional with expertise in <b>video editing, graphic design, and full-stack web development.</b>
